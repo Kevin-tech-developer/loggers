@@ -1,0 +1,38 @@
+2025-06-03 22:37:45 [main] INFO  com.devsenior.Main - Iniciando el programa de gestion de empleados
+2025-06-03 22:37:45 [main] INFO  com.devsenior.Main - informacion de empleado creado: empleado{nombre= juan
+, edad= 25, salario= 3000.0}
+2025-06-03 22:37:45 [main] INFO  com.devsenior.Main - informacion del gerente: Gerente{departamento= null
+,empleado{nombre= Ana
+, edad= 35, salario= 5000.0}}
+2025-06-03 22:37:45 [main] INFO  com.devsenior.Main - despues del aumento...
+2025-06-03 22:37:45 [main] INFO  com.devsenior.Main - informacion empleado: empleado{nombre= juan
+, edad= 25, salario= 3500.0}
+2025-06-03 22:37:45 [main] INFO  com.devsenior.Main - informacion del gerente: Gerente{departamento= null
+,empleado{nombre= Ana
+, edad= 35, salario= 6000.0}}
+2025-06-03 22:37:45 [main] INFO  com.devsenior.Main - programa finalizado
+2025-06-03 22:37:45 [main] TRACE com.devsenior.Main - este es un mensaje trace
+2025-06-03 22:37:45 [main] DEBUG com.devsenior.Main - este es un mensaje debug
+2025-06-03 22:37:45 [main] WARN  com.devsenior.Main - este es un mensaje warn
+2025-06-03 22:37:45 [main] ERROR com.devsenior.Main - este es un mensaje Error
+2025-06-03 22:37:45 [main] FATAL com.devsenior.Main - este es un mensaje fatal
+2025-06-03 22:50:01 [main] INFO  com.devsenior.Main - Iniciando el programa de gestion de empleados
+2025-06-03 22:50:01 [main] INFO  com.devsenior.Main - informacion de empleado creado: empleado{nombre= juan
+, edad= 25, salario= 3000.0}
+2025-06-03 22:50:01 [main] INFO  com.devsenior.Main - informacion del gerente: Gerente{departamento= null
+,empleado{nombre= Ana
+, edad= 35, salario= 5000.0}}
+2025-06-03 22:50:01 [main] DEBUG com.devsenior.Empleado - salario de juan paso de $3000.0 a $3500.0
+2025-06-03 22:50:01 [main] DEBUG com.devsenior.Empleado - salario de Ana paso de $5000.0 a $6000.0
+2025-06-03 22:50:01 [main] INFO  com.devsenior.Main - despues del aumento...
+2025-06-03 22:50:01 [main] INFO  com.devsenior.Main - informacion empleado: empleado{nombre= juan
+, edad= 25, salario= 3500.0}
+2025-06-03 22:50:01 [main] INFO  com.devsenior.Main - informacion del gerente: Gerente{departamento= null
+,empleado{nombre= Ana
+, edad= 35, salario= 6000.0}}
+2025-06-03 22:50:01 [main] INFO  com.devsenior.Main - programa finalizado
+2025-06-03 22:50:01 [main] TRACE com.devsenior.Main - este es un mensaje trace
+2025-06-03 22:50:01 [main] DEBUG com.devsenior.Main - este es un mensaje debug
+2025-06-03 22:50:01 [main] WARN  com.devsenior.Main - este es un mensaje warn
+2025-06-03 22:50:01 [main] ERROR com.devsenior.Main - este es un mensaje Error
+2025-06-03 22:50:01 [main] FATAL com.devsenior.Main - este es un mensaje fatal
