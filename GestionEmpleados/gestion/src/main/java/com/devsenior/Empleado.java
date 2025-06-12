@@ -1,9 +1,10 @@
 package com.devsenior;
 
-import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.LogManager;//import de las librerias para el logger
 import org.apache.logging.log4j.Logger;
 
 public class Empleado {
+    //indicacion de donde va a trabajar el logger
     private static final Logger logger = LogManager.getLogger(Empleado.class);
     private String nombre;
     private int edad;
@@ -30,7 +31,7 @@ public class Empleado {
     }
 
     @Override
-    public String toString(){
+    public String toString(){//metodo de como se muestra el empleado
         return "empleado{"+
         "nombre= "+nombre+"\n"+
         ", edad= "+edad+
